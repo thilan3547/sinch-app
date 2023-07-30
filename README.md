@@ -15,4 +15,4 @@ A Git branch protection rule is in place and any merge to the main branch requir
 Romesh Samarakoon
 
 ![example workflow]
-(https://github.com/thilan3547/sinch-app/actions/workflows/healthcheck.yml/badge.svg)
+(https://github.com/thilan3547/sinch-app/actions/workflows/dockerbuild.yml/badge.svg)
