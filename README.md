@@ -14,5 +14,4 @@ A Git branch protection rule is in place and any merge to the main branch requir
 
 Romesh Samarakoon
 
-![GitActions Status]
-(https://github.com/thilan3547/sinch-app/actions/workflows/dockerbuild.yml/badge.svg)
+![GitActions Status](https://github.com/thilan3547/sinch-app/actions/workflows/dockerbuild.yml/badge.svg)
