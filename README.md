@@ -4,7 +4,7 @@ The Responding Dark Laughter (TRDL) is a small web service that runs on Flask wh
 
 ## Getting Started
 
-TRDL service can be accessed via a web browser with http://http://k8s-default-ingress-d51228ea22-1855932782.eu-north-1.elb.amazonaws.com/ or using cURL with "curl http://k8s-default-ingress-d51228ea22-1855932782.eu-north-1.elb.amazonaws.com/"
+TRDL service can be accessed via a web browser with http://k8s-default-ingress-d51228ea22-1855932782.eu-north-1.elb.amazonaws.com/ or using cURL with "curl http://k8s-default-ingress-d51228ea22-1855932782.eu-north-1.elb.amazonaws.com/"
 
 ## Deployment
 
