@@ -13,3 +13,6 @@ A Git branch protection rule is in place and any merge to the main branch requir
 ## Authors
 
 Romesh Samarakoon
+
+![example workflow]
+(https://github.com/thilan3547/fluxcd-demo-3/actions/workflows/healthcheck.yml/badge.svg)
